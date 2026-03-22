@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Selfitis&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Zekeriyya%20Said%20Altay&descAlignY=60&descColor=ffffffcc&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,20,24,30&height=200&section=header&text=Selfitis&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Zekeriyya%20Said%20Altay&descAlignY=60&descColor=ffffffcc&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -124,7 +124,7 @@ Ubuntu → Windows XP → ... → Linux Deep Dive
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,20,24,30&height=100&section=footer" width="100%"/>
 
 <sub>Designed & coded by a visionary developer born in 2013 · Ankara 🇹🇷</sub>
 
