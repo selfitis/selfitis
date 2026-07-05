@@ -62,7 +62,7 @@
     <td align="center" width="33%">
       <h3>🐾</h3>
       <strong>Online Tamagotchi Pet</strong><br/>
-      <sub>Raspberry Pi Zero · Python · Web UI<br/>Fiziksel donanımla çalışan sanal evcil hayvan</sub>
+      <sub>Raspberry Pi Zero · Python · Web UI<br/>Fiziksel donanımla çalışan sanal evcil hayvan prototipi</sub>
     </td>
     <td align="center" width="33%">
       <h3>⚡</h3>
@@ -71,8 +71,8 @@
     </td>
     <td align="center" width="33%">
       <h3>🎓</h3>
-      <strong>BİLSEM Project</strong><br/>
-      <sub>Hardware + Software<br/>Bilim ve Sanat Merkezi sunum projesi</sub>
+      <strong>Linux Kde Customization</strong><br/>
+      <sub>Hardware + Software<br/>Kde yi özelleştirme projesi</sub>
     </td>
   </tr>
 </table>
@@ -97,13 +97,13 @@
 </div>
 
 ```
-Ubuntu → Windows XP → ... → Linux Deep Dive
-   └── Her OS bir ders, her kernel panik bir büyüme
+İ tested Too much OS→ Linux Deep Dive
+   └── Her OS bir ders,her kernel panik bir büyüme
 ```
 
 <div align="center">
 
-*"Makinelerin gerçekte nasıl çalıştığını anlamak için her şeyi deniyorum."*
+*"İlk denediğim Os Windows xp'ydi, o zamanda bile bir eksiklik hissederdim..."*
 
 </div>
 
@@ -115,7 +115,6 @@ Ubuntu → Windows XP → ... → Linux Deep Dive
 
 [![Website](https://img.shields.io/badge/selfitis.github.io-000000?style=for-the-badge&logo=github&logoColor=white)](https://selfitis.github.io)
 [![Email](https://img.shields.io/badge/vnmzsa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vnmzsa@gmail.com)
-[![Instagram](https://img.shields.io/badge/@selfitis29-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/selfitis29/)
 [![YouTube](https://img.shields.io/badge/@selfitiss-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@selfitiss)
 
 </div>
